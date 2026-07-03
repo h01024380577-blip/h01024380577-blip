@@ -1,34 +1,53 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:38BDF8&height=200&section=header&text=Jiwon&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=LLM%20Application%20%26%20AI%20Agent%20Engineer&descSize=20&descAlignY=62" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=6D28D9&center=true&vCenter=true&width=520&lines=Jiwon;LLM+Application+%26+AI+Agent+Engineer" alt="typing" />
+<div align="center">
 
 **LLM을 데모가 아니라, 실사용자 700명+의 손에 올리는 엔지니어**
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=h01024380577@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/better-agent-h)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-38252307c56e81fcb1aae77f270ad7ff)
-
 </div>
 
 <br>
 
+<h3 align="center">✨ Languages ✨</h3>
 <div align="center">
-
-### 🛠️ Stack
-
-![My Skills](https://skillicons.dev/icons?i=python,ts,react,nextjs,postgres,prisma,supabase,aws,vercel,git&theme=light)
-
-`RAG · pgvector` &nbsp; `LangChain / LangGraph` &nbsp; `OpenAI · Claude · Gemini` &nbsp; `Cohere Rerank` &nbsp; `MCP`
-
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>&nbsp
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <br>
 
+<h3 align="center">🤖 AI / LLM 🤖</h3>
 <div align="center">
-
-### 🚀 Projects
-
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/RAG%20·%20pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Cohere%20Rerank-39594D?style=for-the-badge&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logoColor=white"/>
 </div>
+
+<br>
+
+<h3 align="center">🛠 Backend & Infra 🛠</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB"/>&nbsp
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</div>
+
+<br>
+
+<h3 align="center">🚀 Projects 🚀</h3>
 
 | | |
 |:--|:--|
@@ -39,9 +58,8 @@
 
 <br>
 
+<h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
-
-### 🏆 Awards
 
 🥇 국민대 AI 디지털 콘텐츠 경진대회 **대상** &nbsp;·&nbsp; 🏆 기후변화대응 아이디어 공모전 **대상** &nbsp;·&nbsp; 🥈 DACON 바이브코딩 AI 공모전 **2위**
 
@@ -51,6 +69,18 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=h01024380577-blip&show_icons=true&hide_border=true&theme=default&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=h01024380577-blip&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h01024380577-blip&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
 </div>
+
+<br>
+
+<h3 align="center">📫 Contact 📫</h3>
+<div align="center">
+  <a href="mailto:h01024380577@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
+  <a href="http://www.linkedin.com/in/better-agent-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
+  <a href="https://app.notion.com/p/Portfolio-38252307c56e81fcb1aae77f270ad7ff"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6D28D9&height=120&section=footer"/>
