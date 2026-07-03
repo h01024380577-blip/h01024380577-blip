@@ -1,8 +1,6 @@
 <div align="center">
 
-# Jiwon
-
-### LLM Application & AI Agent Engineer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=780&height=80&lines=Welcome+to+Jiwon's+Github+%F0%9F%91%8B;LLM+Application+%26+AI+Agent+Engineer;Building+AI+products+people+actually+keep+using" alt="typing header"/>
 
 **LLM을 데모가 아니라, 실사용자 700명+의 손에 올리는 엔지니어**
 
