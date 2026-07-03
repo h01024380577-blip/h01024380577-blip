@@ -45,19 +45,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-<br>
-
-<h3 align="center">🚀 Projects 🚀</h3>
-
-| | |
-|:--|:--|
-| **💙 [마음정산](https://app.notion.com/p/38252307c56e805b9abdcfc3b6c80bde)** · AI 경조사 가계부 `🟢 운영 중` | 창업 · AI + PM |
-| 링크 붙여넣으면 AI가 3초 자동입력 + 관계 기반 금액추천 (Apps-in-Toss) | **DAU ×7 · 700+ · 4.6★ · 광고비 ₩0** |
-| **🏦 [FinProof Agent](https://app.notion.com/p/4d652307c56e83629a41816c787261bd)** · 근거 기반 준법심의 AI SaaS `🔵 진행 중` | AI Engineer |
-| 멀티 에이전트 + RAG로 금융 홍보물을 법령·약관·선례로 검증 | **OCR +54% · 오추적 0 · Fin:AI 본선** |
-
-<br>
-
 <h3 align="center">🏆 Awards 🏆</h3>
 <div align="center">
 
