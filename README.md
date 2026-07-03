@@ -1,6 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,100:38BDF8&height=200&section=header&text=Jiwon&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=LLM%20Application%20%26%20AI%20Agent%20Engineer&descSize=20&descAlignY=62" width="100%"/>
-
 <div align="center">
+
+# Jiwon
+
+### LLM Application & AI Agent Engineer
 
 **LLM을 데모가 아니라, 실사용자 700명+의 손에 올리는 엔지니어**
 
@@ -62,5 +64,3 @@
   <a href="http://www.linkedin.com/in/better-agent-h"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp
   <a href="https://app.notion.com/p/Portfolio-38252307c56e81fcb1aae77f270ad7ff"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:6D28D9&height=120&section=footer"/>
