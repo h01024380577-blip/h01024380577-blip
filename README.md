@@ -46,15 +46,6 @@
 
 <br>
 
-<h3 align="center">🏆 Awards 🏆</h3>
-<div align="center">
-
-🥇 국민대 AI 디지털 콘텐츠 경진대회 **대상** &nbsp;·&nbsp; 🏆 기후변화대응 아이디어 공모전 **대상** &nbsp;·&nbsp; 🥈 DACON 바이브코딩 AI 공모전 **2위**
-
-</div>
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:h01024380577@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
