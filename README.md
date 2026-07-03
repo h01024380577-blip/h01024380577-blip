@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## Jiwon (better-agent-h)
+## Jiwon Heo
 
 ### LLM Application & AI Agent Engineer
 
