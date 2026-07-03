@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=780&height=80&lines=Welcome+to+Jiwon's+Github+%F0%9F%91%8B;LLM+Application+%26+AI+Agent+Engineer;Building+AI+products+people+actually+keep+using" alt="typing header"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&height=75&lines=Welcome+to+Jiwon's+Github+%F0%9F%91%8B;LLM+Application+%26+AI+Agent+Engineer;Building+AI+products+people+actually+keep+using" alt="typing header"/>
 
 
 </div>
