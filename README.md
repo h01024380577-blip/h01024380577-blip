@@ -54,15 +54,6 @@
 
 <br>
 
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=h01024380577-blip&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=h01024380577-blip&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-</div>
-
-<br>
-
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:h01024380577@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp
