@@ -8,7 +8,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:h01024380577@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/better-agent-h)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/Portfolio-38252307c56e81fcb1aae77f270ad7ff)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://spotless-trollius-cb0.notion.site/Portfolio-3db52307c56e811c8a5be0ed0d4c44a4?source=copy_link)
 
 </div>
 
