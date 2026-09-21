@@ -4,7 +4,7 @@
 
 ## Jiwon Heo
 
-### LLM Application & AI Agent Engineer
+### Creating Real-World Impact with AI
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:h01024380577@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/better-agent-h)
